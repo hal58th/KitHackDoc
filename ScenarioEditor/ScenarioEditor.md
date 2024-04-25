@@ -198,11 +198,7 @@ InvokeRepeating
 CancelInvoke
 IsInvoking
 StartCoroutine
-StartCoroutine
-StartCoroutine
 StartCoroutine_Auto
-StopCoroutine
-StopCoroutine
 StopCoroutine
 StopAllCoroutines
 get_useGUILayout
@@ -218,9 +214,6 @@ GetComponent
 GetComponentInChildren
 GetComponentsInChildren
 GetComponentInParent
-GetComponentsInParent
-GetComponents
-GetComponents
 GetComponents
 get_tag
 set_tag
@@ -238,6 +231,66 @@ get_hideFlags
 set_hideFlags
 ToString
 GetType
+Vehicle Properties
+UnityEngine.Transform ReferenceTransform
+VehicleInfo VehicleInfo
+VehicleParameters Parameters
+Construct Construct
+Byte[] ConstructData
+Boolean IsLocalVehicle
+Boolean IsPlayerVehicle
+Boolean IsLocalPlayerVehicle
+Boolean IsInLocalEditor
+Boolean IsEditing
+Boolean IsAuthorityOrBot
+Boolean IsViewTarget
+IVehicleOwner PlayerOwner
+FSInputReceiver Receiver
+FSRigidbody Rb
+Part RootPart
+Int32 AttachedPartsCount
+Boolean Spawned
+Boolean InitComplete
+System.Collections.Generic.IEnumerable`1[IVehicleComponent] VehicleComponents
+FSControl.AutoTrim Autotrim
+VehiclePhysics Physics
+VehicleCollisionMgmt CollisionMgmt
+VehicleNetworkMovement NetMovement
+VehicleResources Resources
+VehiclePaint Paint
+VehicleBallistics Ballistics
+VehicleVolumetrics Volumetrics
+Vehicles.Logging.VehicleLogger Logger
+VehicleScoring Scoring
+VehicleSignalStrength SignalStrength
+Wind.VehicleWind Wind
+UI.Flight.VehicleActionsInteraction ActionsInteraction
+Boolean isDespawning
+Boolean ShouldDrawForces
+System.String NetworkScnCraftSpawnGuid
+Boolean NetworkisEditing
+UInt32 NetworkplayerOwnerId
+Boolean isServer
+Boolean isClient
+Boolean isLocalPlayer
+Boolean isServerOnly
+Boolean isClientOnly
+Boolean isOwned
+Boolean hasAuthority
+Boolean authority
+UInt32 netId
+Mirror.NetworkConnection connectionToServer
+Mirror.NetworkConnectionToClient connectionToClient
+Mirror.NetworkIdentity netIdentity
+Byte ComponentIndex
+Boolean useGUILayout
+Boolean enabled
+Boolean isActiveAndEnabled
+UnityEngine.Transform transform
+UnityEngine.GameObject gameObject
+System.String tag
+System.String name
+UnityEngine.HideFlags hideFlags
 ```
 
 ### Module Methods
@@ -325,4 +378,30 @@ set_name
 get_hideFlags
 set_hideFlags
 ToString
+GetType
+Module Properties
+Scenarios.Scenario Scenario
+Scenarios.ScnBehaviourData scnBehaviourData
+Boolean isMissionModule
+Boolean isServer
+Boolean isClient
+Boolean isLocalPlayer
+Boolean isServerOnly
+Boolean isClientOnly
+Boolean isOwned
+Boolean hasAuthority
+Boolean authority
+UInt32 netId
+Mirror.NetworkConnection connectionToServer
+Mirror.NetworkConnectionToClient connectionToClient
+Mirror.NetworkIdentity netIdentity
+Byte ComponentIndex
+Boolean useGUILayout
+Boolean enabled
+Boolean isActiveAndEnabled
+UnityEngine.Transform transform
+UnityEngine.GameObject gameObject
+System.String tag
+System.String name
+UnityEngine.HideFlags hideFlags
 ```
