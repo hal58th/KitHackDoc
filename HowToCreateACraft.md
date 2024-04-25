@@ -39,3 +39,9 @@ TODO...
 ## Building a Boat
 
 TODO...
+
+## Topics of Interest
+
+### CV Joints and Transmissions
+
+[CV Joints and Transmissions by TrimBarktree](https://www.youtube.com/watch?v=ZDgFYKc-AWA)
