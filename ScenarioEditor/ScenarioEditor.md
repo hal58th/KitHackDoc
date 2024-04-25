@@ -65,6 +65,12 @@ You can use scripts through the Script Module, which lets you write actual code,
 
 TODO...
 
+### Scripts
+
+Compile log location:
+You are supposed to be able to see the logs with the log viewer (F8). But you can view the log at:
+`%USERPROFILE%\AppData\LocalLow\Floating Origin Interactive\KitHack Model Club\Player.log`
+
 ## How do I do...?
 
 ### Create an NPC and have it follow a path
