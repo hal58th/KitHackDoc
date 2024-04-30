@@ -8,7 +8,7 @@
 
 [How do I do...?](#how-do-i-do)
 * [Create an NPC and have it follow a path](#create-an-npc-and-have-it-follow-a-path)
-* [Display Lap Time As Floater](#display-lap-time-as-a-floater)
+* [Display Lap Time As A Floater](#display-lap-time-as-a-floater)
 
 [Methods](#Methods)
 
@@ -82,7 +82,7 @@ You are supposed to be able to see the logs with the log viewer (F8). But you ca
 
 TODO...
 
-### Display lap time as floater
+### Display lap time as a floater
 
 The script below needs to be added as a `.scs` extension and put it in your scenario folder.
 Add a "Logic"->"Script from file module", add it, compile it and hit test. You will also need to add a float parameter called currentLapTime to have it compile successfully.
