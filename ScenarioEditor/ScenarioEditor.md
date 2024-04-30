@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-[Overview]()
+[Overview](#Overview)
 
-[Specifics]()
+[Specifics](#Specifics)
 
 [How do I do...?]()
 * [Create an NPC and have it follow a path]()
 
-[Methods]()
+[Methods](#Methods)
 
 [Scenario Ideas](ScenarioIdeas.md)
 
