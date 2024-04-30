@@ -9,7 +9,9 @@
 [How do I do...?]()
 * [Create an NPC and have it follow a path]()
 
-[Scenario Ideas]()
+[Methods]()
+
+[Scenario Ideas](ScenarioIdeas.md)
 
 ## Video Tutorials
 
