@@ -9,6 +9,7 @@
 [How do I do...?](#how-do-i-do)
 * [Create an NPC and have it follow a path](#create-an-npc-and-have-it-follow-a-path)
 * [Display Lap Time As Floater](#display-lap-time-as-a-floater)
+
 [Methods](#Methods)
 
 [Other Resources](#Other-Resources)
