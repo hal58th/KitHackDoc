@@ -6,10 +6,12 @@
 
 [Specifics](#Specifics)
 
-[How do I do...?]()
-* [Create an NPC and have it follow a path]()
-
+[How do I do...?](#how-do-i-do)
+* [Create an NPC and have it follow a path](#create-an-npc-and-have-it-follow-a-path)
+* [Display Lap Time As Floater](#display-lap-time-as-a-floater)
 [Methods](#Methods)
+
+[Other Resources](#Other-Resources)
 
 [Scenario Ideas](ScenarioIdeas.md)
 
@@ -78,6 +80,20 @@ You are supposed to be able to see the logs with the log viewer (F8). But you ca
 ### Create an NPC and have it follow a path
 
 TODO...
+
+### Display lap time as floater
+
+The script below needs to be added as a `.scs` extension and put it in your scenario folder.
+Add a "Logic"->"Script from file module", add it, compile it and hit test. You will also need to add a float parameter called currentLapTime to have it compile successfully.
+Hook it up to your lap trigger and it will display when a lap is complete.
+
+```c#
+String lapTimeStr;
+lapTimeStr = "Lap Time! " + [[currentLapTime]].ToString();
+
+Floater("hello".RTColor(XKCDColors.NotSoGoodOrange).RTItalic());
+Floater(lapTimeStr.RTColor(XKCDColors.NotSoGoodOrange).RTItalic());   
+```
 
 ## Methods
 
@@ -407,3 +423,7 @@ System.String tag
 System.String name
 UnityEngine.HideFlags hideFlags
 ```
+
+## Other Resources
+
+[Kithack Helper Repo by Auggie](https://github.com/AuggieTPG/Kithack_Helper)
