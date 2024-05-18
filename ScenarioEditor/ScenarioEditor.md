@@ -55,6 +55,10 @@ You can use scripts through the Script Module, which lets you write actual code,
 
 ## Specifics
 
+### Props
+
+* After selecting a prop to place, hold SHIFT to place multiple props at a time.
+
 ### Types of Modules
 
 * Actions

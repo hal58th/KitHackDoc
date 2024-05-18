@@ -12,3 +12,5 @@ Do S turns through the bridge behind the clubhouse and then do a straightaway on
 ## Find the targets
 
 Find and shot targets hidden throughout the map. 5 minute time limit.
+
+## Ramps to do a skatepark
