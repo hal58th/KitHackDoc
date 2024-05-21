@@ -2,9 +2,16 @@
 
 Currently this video is the best and most extensive guide on how to build in KitHack - [Early Access Tutorial and Building Guide - How To Build a Plane, Car, or Boat - By TrimBarktree](https://www.youtube.com/watch?v=5kSZEv6D0HQ&t=3061s)
 
-## Other Video Tutorials
+## Video Tutorials
 
-* [How to Build a Plane in Kithack Model Club - By Curve Games (Developer)](https://www.youtube.com/watch?v=EiQihqcxwU4)
+### CV Joints and Transmissions
+
+[CV Joints and Transmissions by TrimBarktree](https://www.youtube.com/watch?v=ZDgFYKc-AWA)
+
+### Tips and Tricks
+
+[Beginner Tips and Tricks by TrimBarktree](https://www.youtube.com/watch?v=2mPAN37BtcQ)
+[Advanced Tips and Tricks by TrimBarktree](https://www.youtube.com/watch?v=EIrHNH4Y5U4)
 
 ## Building a plane
 
@@ -39,9 +46,3 @@ TODO...
 ## Building a Boat
 
 TODO...
-
-## Topics of Interest
-
-### CV Joints and Transmissions
-
-[CV Joints and Transmissions by TrimBarktree](https://www.youtube.com/watch?v=ZDgFYKc-AWA)
