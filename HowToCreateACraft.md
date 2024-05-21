@@ -6,12 +6,12 @@ Currently this video is the best and most extensive guide on how to build in Kit
 
 ### CV Joints and Transmissions
 
-[CV Joints and Transmissions by TrimBarktree](https://www.youtube.com/watch?v=ZDgFYKc-AWA)
+* [CV Joints and Transmissions by TrimBarktree](https://www.youtube.com/watch?v=ZDgFYKc-AWA)
 
 ### Tips and Tricks
 
-[Beginner Tips and Tricks by TrimBarktree](https://www.youtube.com/watch?v=2mPAN37BtcQ)
-[Advanced Tips and Tricks by TrimBarktree](https://www.youtube.com/watch?v=EIrHNH4Y5U4)
+* [Beginner Tips and Tricks by TrimBarktree](https://www.youtube.com/watch?v=2mPAN37BtcQ)
+* [Advanced Tips and Tricks by TrimBarktree](https://www.youtube.com/watch?v=EIrHNH4Y5U4)
 
 ## Building a plane
 
