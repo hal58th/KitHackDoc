@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Notes
+# 45 Degrees
+  # rotation = 0,0,0.25,1
+# 90 Degrees
+  # rotation = 0,0,0.25,0.5
+# 0 Degrees (flat)
+  # rotation = 0,0,0,0.5
+
 rows=500
 columns=6
 
