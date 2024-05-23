@@ -2,17 +2,21 @@
 
 ## Table of Contents
 
-[Overview](#Overview)
+[Video Tutorials](#video-tutorials)
 
-[Specifics](#Specifics)
+[Overview](#overview)
+
+[Specifics](#specifics)
+
+[Tips and Keybinds](#tips-and-keybinds)
 
 [How do I do...?](#how-do-i-do)
 * [Create an NPC and have it follow a path](#create-an-npc-and-have-it-follow-a-path)
 * [Display Lap Time As A Floater](#display-lap-time-as-a-floater)
 
-[Methods](#Methods)
+[Methods](#methods)
 
-[Other Resources](#Other-Resources)
+[Other Resources](#other-resources)
 
 [Scenario Ideas](ScenarioIdeas.md)
 
@@ -67,7 +71,7 @@ You can use scripts through the Script Module, which lets you write actual code,
 * Flow Control
 * Game Setup
 * Logic
-* Propes
+* Props
 * Tracking
 * Trigger Logic
 * UI
@@ -79,6 +83,12 @@ TODO...
 Compile log location:
 You are supposed to be able to see the logs with the log viewer (F8). But you can view the log at:
 `%USERPROFILE%\AppData\LocalLow\Floating Origin Interactive\KitHack Model Club\Player.log`
+
+## Tips and Keybinds
+
+* When placing props, you can hit the tab key to orient the prop placement axis to up. This is useful for moving props that are rotated.
+* To copy and paste props, you have to hit ctrl+c then ctrl+v ON TOP of the same prop. Then you can move the blue circle to the new location to place the prop.
+* To place multiple props at a time, hold down ctrl while left clicking.
 
 ## How do I do...?
 
