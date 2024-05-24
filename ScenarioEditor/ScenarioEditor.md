@@ -86,10 +86,11 @@ You are supposed to be able to see the logs with the log viewer (F8). But you ca
 
 ## Tips and Keybinds
 
-* When placing props, you can hit the tab key to orient the prop placement axis to up. This is useful for moving props that are rotated.
+* When placing props, you can hit the tab key to orient the prop placement axis to up. This is useful for moving props that are already rotated.
 * To copy and paste props, you have to hit ctrl+c then ctrl+v ON TOP of the same prop. Then you can move the blue circle to the new location to place the prop.
-* To place multiple props at a time, hold down ctrl while left clicking.
+* To place multiple props at a time, hold down shift while left clicking. Note this only works when selecting the prop from the menu, not copy pasting.
 * When trying to line up ramps, hit F11 to remove all the wireframes so you can see clearly. You can hit F11 (or tab if prop is selected) to go back to normal.
+* If you have multiple props occupying the same space, you can hover the mouse over the props, hold alt and use the scrollwheel to select the prop, so that you can move it. Selected prop wireframe will highlight yellow, then left click.
 
 ## How do I do...?
 
