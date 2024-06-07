@@ -35,10 +35,6 @@ Does your plane not plane very well? This is most likely the reason. Also make s
 * CoL further behind of CoM → More stable
 * CoL very far behind of CoM → Very hard to correct course; likely to flip up or nosedive
 
-### Why can't I connect ducted fans to my motor?
-
-Ducted fans require the "CV Joint" be connected from the motor to the fan. Or CV Joint through transmissions to split the load to two or more ducted fans.
-
 ## Building a Car
 
 TODO...
@@ -46,3 +42,11 @@ TODO...
 ## Building a Boat
 
 TODO...
+
+## F9 Diagnostics Menu
+
+### Internal Physics
+
+Blue for tension, red for compression. They change colour based on the amount of stress on them. 
+
+### TODO....
