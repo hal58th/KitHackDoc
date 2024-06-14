@@ -11,6 +11,7 @@
 [Tips and Keybinds](#tips-and-keybinds)
 
 [How do I do...?](#how-do-i-do)
+* [Disable Traffic](#disable-traffic)
 * [Create an NPC and have it follow a path](#create-an-npc-and-have-it-follow-a-path)
 * [Display Lap Time As A Floater](#display-lap-time-as-a-floater)
 
@@ -93,6 +94,15 @@ You are supposed to be able to see the logs with the log viewer (F8). But you ca
 * If you have multiple props occupying the same space, you can hover the mouse over the props, hold alt and use the scrollwheel to select the prop, so that you can move it. Selected prop wireframe will highlight yellow, then left click.
 
 ## How do I do...?
+
+### Disable Traffic
+
+Add a script module with the following contents:
+```c#
+Traffic.TrafficDaemon.Instance.StopAgentThreads();
+Trigger("OnStopTraffic");
+```
+The second line is optional. You then need to link this script to start when Player is Ready or Stage Start.
 
 ### Create an NPC and have it follow a path
 
